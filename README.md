@@ -3,7 +3,7 @@
  </h1>
 <br />
 <div align="center">
-  <img align="center" alt="GIF" src="https://r.resimlink.com/a9kDl78.gif" width="700" height="350" />
+  <img align="center" alt="GIF" src="https://r.resimlink.com/a9kDl78.gif" width="1000" height="500" />
 </div> 
 <br />
 <br />
