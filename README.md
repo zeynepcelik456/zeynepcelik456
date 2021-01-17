@@ -46,7 +46,7 @@ I'm a Software Developer
  -Technical Service and Product Tracking System
 </h4>
 <p align="left">
- <b> Technologies:</b> C#,Devexpress,SQL,EntityFramework,Linq Query,Asp.Net,Html5
+ <b> Technologies:</b> C#, Devexpress, SQL, EntityFramework, Linq Query,Asp.Net,Html5
 </p>
 
 <p align="left">
@@ -58,7 +58,7 @@ I'm a Software Developer
  -Library Management System
 </h4>
 <p align="left">
- <b> Technologies:</b> Mvc,Asp.net,Linq query,SQl,EntityFramework,Html5,Css,Bootstrap
+ <b> Technologies:</b> Mvc, Asp.net, Linq Query, SQl, EntityFramework, Html5, Css, Bootstrap
 </p>
 
 <p align="left">
