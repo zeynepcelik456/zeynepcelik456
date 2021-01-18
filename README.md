@@ -1,6 +1,9 @@
+<h1 align="center">
+ Hello, I'm Zeynep
+</h1>
 
 <div align="center">
- <img align="right" alt="GIF" src="https://r.resimlink.com/yVv.gif" width="570" height="550" />
+ <img align="right" alt="GIF" src="https://r.resimlink.com/054.gif" width="500" height="320" />
 </div>
 
 
