@@ -1,6 +1,6 @@
 
 <div align="center">
- <img align="right" alt="GIF" src="https://r.resimlink.com/yVv.gif" width="550" height="550" />
+ <img align="right" alt="GIF" src="https://r.resimlink.com/yVv.gif" width="570" height="550" />
 </div>
 
 
