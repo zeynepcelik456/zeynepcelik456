@@ -18,9 +18,7 @@ I'm a Software Developer
 <br /><h2 align="left">
  🤝🏻 Talk with me 
 </h2>
-[<img align="left" alt="zeynep-çelik| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-<a href="https://www.linkedin.com/in/zeynep-%C3%A7elik/" align="left" alt="zeynep-çelik| LinkedIn" width="22px">linkedin.com/in/zeynep-çelik/<a/><br />
- <br />
+[<img align="left" alt="zeynep-çelik| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<a href="https://www.linkedin.com/in/zeynep-%C3%A7elik/" align="left" alt="zeynep-çelik| LinkedIn" width="22px">linkedin.com/in/zeynep-çelik/<a/><br />
 <img align="left" alt="zeynepcelikk456@gmail.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/> zeynepcelikk456@gmail.com <br />
 
 
